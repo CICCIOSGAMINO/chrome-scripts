@@ -9,4 +9,6 @@ console.
 
 
 ### console.js 
-Simple file with all the dev API related to console use. 
+Simple file with all the dev API related to console use. Console is a very useful tool in debuggin 
+Javascript in browser environment, but is very power to understand all the javascript functionality 
+too. 
